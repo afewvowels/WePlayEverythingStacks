@@ -1,0 +1,15 @@
+{
+  "name": "WePlayEverythingStacks",
+  "version": "0.1.1",
+  "title": "WePlay: Everything Stacks",
+  "author": "your-name",
+  "factorio_version": "2.1",
+  "description": "Every inserter and loader stacks items on belts. Stack size is the smaller of the inserter's hand size and the researched belt stack size. Adds belt stacking research when Space Age isn't enabled.",
+  "dependencies": [
+    "base >= 2.1",
+    "? space-age",
+    "? stack-inserters",
+    "? aai-loaders"
+  ],
+  "expansion_required": true
+}

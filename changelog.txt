@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-11-03
+  Info:
+    - Added changelog.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-11-03
+  Features:
+    - All inserters stack items on belts. Stack size is the smaller of the inserter's hand size and the researched belt stack size.
+    - All loaders stack items on belts, including loaders from other mods.
+    - Added a belt stack size selector to loaders.
+    - Added belt stacking research (3 tiers, matching Space Age) when Space Age is not enabled.
+    - Added startup settings for the max belt stack per entity and for loader stacking.
